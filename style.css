@@ -3,6 +3,7 @@ body {
   font-family: arial; 
 }
 .pictures {
+  display: flex;
   margin: 10px;
   gap: 1vw;
 }
