@@ -2,7 +2,6 @@ body {
   backgroundcolor: pink; 
   font-family: arial; 
 }
-
 .pictures {
   margin: 10px;
   gap: 1vw;
@@ -10,7 +9,6 @@ body {
 .LaterneBild {
   hight: 3vh;
   width: auto; 
-}
 }
 .BusBild {
   hight: 3vh; 
