@@ -1,17 +1,20 @@
 body {
-  background-color: pink; 
-  font-family: arial; 
+   background-color: pink;
+   font-family: arial;
 }
+
 .pictures {
-  display: flex;
-  margin: 10px;
-  gap: 1vw;
+   display: flex; 
+   margin: 10px;
+   gap: 1vw;
 }
+
 .LaterneBild {
-  hight: 3vh;
-  width: auto; 
+   height: 3vh; 
+   width: auto;
 }
+
 .BusBild {
-  hight: 3vh; 
-  width: auto; 
+   height: 3vh; 
+   width: auto;
 }
