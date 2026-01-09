@@ -1,0 +1,17 @@
+body {
+  backgroundcolor: pink; 
+}
+
+.pictures {
+  margin: 10px;
+  gap: 1vw;
+}
+.LaterneBild {
+  hight: 3vh;
+  width: auto; 
+}
+}
+.BusBild {
+  hight: 3vh; 
+  width: auto; 
+}
